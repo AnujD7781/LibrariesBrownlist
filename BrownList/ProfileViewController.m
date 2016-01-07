@@ -1,15 +1,13 @@
 //
-//  SecondViewController.h
+//  ProfileViewController.m
 //  BrownList
 //
 //  Created by ANUJ DESHMUKH on 11/17/15.
 //  Copyright © 2015 DESHMUKH. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ProfileViewController.h"
 
-@interface SecondViewController : UIViewController
-
+@implementation ProfileViewController
 
 @end
-

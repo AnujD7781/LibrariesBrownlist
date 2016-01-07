@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  ExploreViewController.h
 //  BrownList
 //
 //  Created by ANUJ DESHMUKH on 11/17/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
-
+@interface ExploreViewController : UIViewController
 
 @end
-
